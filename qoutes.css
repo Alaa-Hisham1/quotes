@@ -1,0 +1,33 @@
+body{
+   
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container{
+    
+    text-align: center;
+   
+}
+h1{
+    font-weight: 700;
+    font: size 80px;
+   padding: 20px;
+}
+h2{
+    font-weight: 700;
+    font: size 80px;
+   padding: 20px;
+}
+p{
+    text-align: center;
+}
+
+button{
+    padding:30px 50px;
+    background-color: blue;
+    margin-top: 20px;
+}
+button:hover{
+    background-color: green;
+}
